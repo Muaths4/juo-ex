@@ -1,0 +1,2 @@
+I optimized the model.
+print(we did it)
